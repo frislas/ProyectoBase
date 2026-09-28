@@ -10,22 +10,31 @@
 
 > El problema en una sola frase, sin mencionar blockchain.
 
-Las familias en México que reciben dinero de familiares en Estados Unidos pierden una parte importante de cada envío en comisiones, tipo de cambio desfavorable y traslados para cobrarlo.
+La empresa coviteni (transporte colectivo) sufre grandes pérdidas cada que ocurre una defunción a terceros y se genera u. problema de demanda civil que trae costos de millones para pagar la indemnización 
 
 ## ¿Quién lo sufre?
 
 > Quién tiene el problema y en qué situación lo vive.
 
-Lo sufren los migrantes mexicanos que envían montos pequeños y frecuentes (semanales o quincenales) y sus familias receptoras, sobre todo en zonas semiurbanas y rurales, que tienen que ir a una sucursal o tienda de conveniencia a cobrar en efectivo.
+Lo sufren los socios de coviteni.
 
 ## ¿Cómo se resuelve hoy y qué cuesta?
 
 > Cómo lo resuelven hoy las personas afectadas y qué les cuesta en dinero, tiempo o esfuerzo.
 
-Hoy se usan empresas remesadoras y apps de transferencia internacional. El costo total combina la comisión fija por envío, el margen escondido en el tipo de cambio y el tiempo y dinero del traslado para cobrar. En envíos pequeños ese costo, en proporción, pesa mucho más que en envíos grandes.
+Hoy se resuelve a través de aseguradoras pagando una indemnización penal sin embargo el costo civil se resuelve llevando a un juicio el caso y negociando pagar menos de los mill9nes demandados por los familiares afectados
 
 ## ¿Por qué creo que blockchain podría aportar?
 
 > Hipótesis personal, no certeza, apoyada en al menos un criterio de la Sesión 1.
 
-Mi hipótesis se apoya en **eliminar intermediarios que concentran la confianza**: enviar el valor como stablecoin sobre Stellar y convertirlo a pesos con anclas locales (Accesly / Pollar) podría reducir capas de corresponsales y hacer visible el tipo de cambio real. Hay dudas importantes: no hemos calculado la economía unitaria, operar remesas requiere licencia regulatoria y dependeríamos de dos startups todavía tempranas.
+Mi hipótesis En COvITENI es:
+*1. Deja de perder millones porque el fondo ya está lleno.*
+Hoy cuando hay un muerto tienes que hacer cooperacha porque el fondo no alcanza.
+Con blockchain, de cada bote que entra, el 5% se va solo y automático a una cartera blindada
+*2. Evitas la demanda de $3 millones dando apoyo en 24 horas.*
+La familia te demanda por lo civil porque le das poco y tarde.
+Con ese comprobante registrado en blockchain, la familia firma un convenio
+*3. Obliga a la aseguradora a pagar lo civil que hoy no te paga.*.
+Con blockchain hasheas cada factura de frenos, cada antidoping. 
+Es automatizar el fondo, pagar rápido a la familia para evitar el juicio millonario, y tener pruebas inalterables contra la aseguradora 
