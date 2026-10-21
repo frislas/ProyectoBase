@@ -333,3 +333,4 @@ Las tecnologías, componentes y mecanismos descritos en este documento represent
 Cada componente deberá verificarse contra el código, la configuración y las pruebas del repositorio para determinar si está implementado, en desarrollo o pendiente.
 # ProyectoBase
 Plantilla base de BB101. Haz fork para arrancar el proyecto de tu equipo, incluye la estructura semana a semana de cada entregable.
+El objetivo de esta documentación es mantener trazabilidad entre el problema de negocio, las decisiones de ingeniería y las funcionalidades efectivamente entregadas.
