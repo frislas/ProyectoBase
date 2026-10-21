@@ -224,4 +224,5 @@ flowchart TB
 | Horizon / RPC | Consultar y verificar transacciones desde el backend y el portal de aseguradora. | Permite validar sin operar un nodo propio. |
 | Testnet (MVP) y explorador público | Pruebas del MVP y verificación abierta por terceros. | Costo cero para validar la idea y transparencia para la aseguradora. |
 
-**Por qué Stellar:** Sus comisiones son muy bajas (fracciones de centavo), el cierre de transacciones toma segundos y el 
+**Por qué Stellar:** Sus comisiones son muy bajas (fracciones de centavo), el cierre de transacciones toma segundos y el modelo de cuentas encaja con talleres que firman. No usamos contratos inteligentes (Soroban) en el MVP porque un hash anclado basta; los consideraríamos después para reglas como vencimientos automáticos.
+
